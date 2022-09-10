@@ -2,9 +2,9 @@
 
 ## **Contact information:**
 
-### **Phone:** +375-29-109-52-70
-### **E-mail:** remember.me397.gmail.com
-### **Github:** [Dasha397](https://github.com/Dasha397)
+#### **Phone:** +375-29-109-52-70
+#### **E-mail:** remember.me397.gmail.com
+#### **Github:** [Dasha397](https://github.com/Dasha397)
 
 ---
 
